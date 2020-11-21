@@ -2,7 +2,7 @@
 title: Joost VanderBorgh's Portfolio
 description: 
  baseurl: "/portfolio" # the subpath of your site, e.g. /blog
- url: "https://joostvan.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+ url: "https://joostvan.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Joost VanderBorgh
