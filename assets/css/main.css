@@ -3393,6 +3393,7 @@ sub,sup{
 	font-size:50px;
 	display:block;
 	line-height:1;
+	white-space: nowrap;
 	color:#fff
 }
 @media only screen and (min-width:550px){
